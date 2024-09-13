@@ -1,3 +1,5 @@
+# test-game
+Пробный тест для создания игры на реакте. Вариант CanvasComponent3 в разработке.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
